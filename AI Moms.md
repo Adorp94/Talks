@@ -1,12 +1,12 @@
-# AI MOMS: An Introduction to Artificial Intelligence
+# AI MOMS: Una Introducción a la Inteligencia Artificial
 
-**Short Course Description:** This is a sample syllabus for a simple course on GitHub.
+**Descripción del curso:** Bienvenida a "Introducción a la inteligencia artificial para mamás", un curso para principiantes diseñado para desmitificar el fascinante mundo de la inteligencia artificial (IA). En este curso, exploraremos los conceptos clave de la IA con un enfoque en la IA generativa, GPT (transformador generativo preentrenado) y visión por computadora, haciendo que el complejo mundo de la IA sea accesible para todos, incluso si no tienes un experiencia técnica.
 
-## Course Schedule
+## Calendario de cursos
 
-| Date       | Topic           | Lecture Material |
-|------------|-----------------|------------------|
-| YYYY-MM-DD | Introduction    | [Lecture 1 PDF](AI%20Moms.pdf)|
-| YYYY-MM-DD | Topic 2         | [Lecture 2 PDF](lecture2.pdf) |
-| YYYY-MM-DD | Final Lecture   | [Lecture 3 PDF](lecture3.pdf) |
+| Date       | Topic                       | Lecture Material                    |
+|------------|-----------------------------|-------------------------------------|
+| 05-10-2023 | Introducción a la IA        | [Presentación #1 PDF](AI%20Moms.pdf)|
+| 19-10-2023 | IA Aplicada                 | [Por subir]                         |
+| 26-10-2023 | Reflexión y Futuro de la IA | [Por subir]                         |
 
