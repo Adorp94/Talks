@@ -6,7 +6,7 @@
 
 | Date       | Topic           | Lecture Material |
 |------------|-----------------|------------------|
-| YYYY-MM-DD | Introduction    | [Lecture 1 PDF](AIMoms.pdf) |
+| YYYY-MM-DD | Introduction    | [Lecture 1 PDF](AI Moms.pdf) |
 | YYYY-MM-DD | Topic 2         | [Lecture 2 PDF](lecture2.pdf) |
 | YYYY-MM-DD | Final Lecture   | [Lecture 3 PDF](lecture3.pdf) |
 
